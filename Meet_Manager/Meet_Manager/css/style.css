@@ -1,12 +1,12 @@
 /* #attendance:focus {
     background-color: #e1efee;
-    border-radius: 0px 0px 1px 8px;
+    border-radius: 0px 0px 0px 8px;
 } */
 
 @font-face {
     font-family: 'Material Icons';
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     src: url(chrome-extension://gioogehddfnceeihfoeencjbhggblkkd/fonts/icons/MaterialIcons-Regular.eot); /* For IE6-8 */
     src: local('Material Icons'), local('MaterialIcons-Regular'),
         url(chrome-extension://gioogehddfnceeihfoeencjbhggblkkd/fonts/icons/MaterialIcons-Regular.woff2)
@@ -20,7 +20,7 @@
 @font-face {
     font-family: 'Bruh Mono';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     src: url(chrome-extension://gioogehddfnceeihfoeencjbhggblkkd/fonts/mono/BruhMono.woff2)
             format('woff2'),
         url(chrome-extension://gioogehddfnceeihfoeencjbhggblkkd/fonts/mono/BruhMono.woff)
